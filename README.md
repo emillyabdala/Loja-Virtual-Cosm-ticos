@@ -1,1 +1,3 @@
-# Loja-Virtual-Cosm-ticos
+# Loja-Virtual-Cosméticos
+
+##Cantinho Da Lu
