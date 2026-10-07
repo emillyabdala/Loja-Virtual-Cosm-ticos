@@ -18,7 +18,6 @@ O Cantinho da Lu é voltado para pessoas que amam se cuidar e buscam produtos pr
 
 - HTML5
 - CSS3
-- JavaScript
 - Bootstrap 5
 
 ## Estrutura do site
