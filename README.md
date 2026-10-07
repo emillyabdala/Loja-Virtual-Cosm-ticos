@@ -1,6 +1,6 @@
 # Cantinho da Lu
 
-Loja virtual feita com HTML, CSS, JavaScript e Bootstrap.
+Loja virtual feita com HTML, CSS e Bootstrap.
 
 ## Sobre o projeto
 
